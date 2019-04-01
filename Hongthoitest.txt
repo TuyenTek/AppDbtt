@@ -1,7 +1,10 @@
 ABC
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Cai nay anh them tai local host
 =======
 Them noi dung trong file test
 >>>>>>> 8a0d2454cad240c9e66cdacc44770cd6d22f453c
+=======
+>>>>>>> parent of 8a0d245... Update Hongthoitest.txt
